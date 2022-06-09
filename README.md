@@ -1,2 +1,1 @@
-# next_wp
-Headless CMS based on WordPress and Next framwork
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
